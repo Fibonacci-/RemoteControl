@@ -84,7 +84,7 @@ public class RemoteControlFragment extends Fragment {
 		});
 
 		deleteButton.setTextAppearance(getActivity(), R.style.RemoteButton_Bold);
-		enterButton.setTextAppearance(getActivity(), R.style.RemoteButton_Bold);
+		enterButton.setTextAppearance(getActivity(), R.style.RemoteButton_Bold);//CHALLENGE 24
 
 		return v;
 	}

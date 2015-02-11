@@ -4,6 +4,7 @@
                 android:layout_height="match_parent"
                 android:id="@+id/tl_fragment_remote_control"
                 android:stretchColumns="*"
+                android:background="@drawable/remote_background"
                 >
 
     <TextView
