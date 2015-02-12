@@ -13,6 +13,8 @@
         android:gravity="center"
         android:textSize="50dp"
         android:text="0"
+        android:background="@drawable/window"
+        android:textColor="#ffffff"
         android:layout_width="match_parent"
         android:layout_height="0dp"/>
     <TextView
@@ -21,10 +23,10 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:layout_margin="15dp"
-        android:background="#555555"
+        android:background="@drawable/bar"
         android:gravity="center"
         android:text="0"
-        android:textColor="#cccccc"
+        android:textStyle="italic"
         android:textSize="20dp"
         />
 
